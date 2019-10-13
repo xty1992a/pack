@@ -4,7 +4,7 @@
   "description": "simple builder based webpack",
   "main": "app.js",
   "bin": {
-    "pack": "./bin/app.js"
+    "pack": "bin/pack.js"
   },
   "scripts": {},
   "repository": {
